@@ -9,3 +9,5 @@ My BE Thesis was on Computer Vision.
 - Good knowledge: SQL, Prolog, Bash, VHDL, Ada, Golang, PHP, C#
 - Basic knowledge: C++, Lua, Matlab, Basic, Visual Basic
 - Not programming languages: CSS, HTML, LaTeX
+
+Check out my gist~
