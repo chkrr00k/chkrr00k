@@ -11,3 +11,8 @@ My BE Thesis was on Computer Vision.
 - Not programming languages: CSS, HTML, LaTeX
 
 Check out my gist~
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chkrr00k&hide=contribs,prs&count_private=true&theme=gruvbox&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkrr00k&count_private=true&theme=gruvbox&langs_count=8&layout=compact)
+
+Thank you to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for these cool stats
