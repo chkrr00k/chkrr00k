@@ -1,8 +1,8 @@
 ### I've always been mad, I know I've been mad, Like the most of us, very hard to explain why you're mad, Even if you're not mad
 
 #### Small summary:
-I hold a Bachelor in Computer Engineering, currently studying for a Master in Computer Engineering.  
-My BE Thesis was on Computer Vision.  
+I hold a Master degree in Computer Engineering and a Bachelor degree in Computer Engineering.  
+Both my ME and BE Thesis were on Computer Vision and Machine Learning.  
 
 #### Known languages
 - High knowledge: C, Java (including JSP), Python, JavaScript (including AJAX)
