@@ -3,6 +3,8 @@
 #### Small summary:
 I hold a Master degree in Computer Engineering and a Bachelor degree in Computer Engineering.  
 Both my ME and BE Thesis were on Computer Vision and Machine Learning.  
+Currently i'm working as an R&D Software Developer in the field of Optical Measures, Computer Vision and Signal Processing for a known multinational company.  
+In my free time i also serve as a Quality Assurance Lead for a small indie web game.  
 
 #### Known languages
 - High knowledge: C, Java (including JSP), Python, JavaScript (including AJAX)
